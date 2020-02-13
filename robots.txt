@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oonighaeng.verstaan.com/sitemap.xml
